@@ -15,7 +15,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "homepage": "https://Mame60-github>.github.io/myreactapp",
+    "homepage": "https://mame60.github.io/myreactapp/",
     "start": "react-scripts start",
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
